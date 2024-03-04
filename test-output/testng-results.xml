@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T22:59:04 EET" name="Default suite" finished-at="2024-03-04T23:00:04 EET" duration-ms="59831">
+    <groups>
+    </groups>
+    <test started-at="2024-03-04T22:59:04 EET" name="Default test" finished-at="2024-03-04T23:00:04 EET" duration-ms="59831">
+      <class name="newTestCasesForAlmosafer.myTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:newTestCasesForAlmosafer.myTestCases@158a3b2e]" started-at="2024-03-04T22:59:04 EET" name="setup" finished-at="2024-03-04T22:59:10 EET" duration-ms="5734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="printTheFeedBackAndEnterDataInHotelTab()[pri:1, instance:newTestCasesForAlmosafer.myTestCases@158a3b2e]" started-at="2024-03-04T22:59:10 EET" name="printTheFeedBackAndEnterDataInHotelTab" finished-at="2024-03-04T23:00:04 EET" duration-ms="54031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTheFeedBackAndEnterDataInHotelTab -->
+        <test-method is-config="true" signature="posTest()[pri:0, instance:newTestCasesForAlmosafer.myTestCases@158a3b2e]" started-at="2024-03-04T23:00:04 EET" name="posTest" finished-at="2024-03-04T23:00:04 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posTest -->
+      </class> <!-- newTestCasesForAlmosafer.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
